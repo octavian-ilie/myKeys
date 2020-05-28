@@ -126,7 +126,7 @@ svg.brand-logo:hover {
 
 .app-title {
   color: #000;
-  font-family: 'Octavian Medium', Helvetica, Arial, sans-serif;
+  font-family: 'Octavian Regular', Helvetica, Arial, sans-serif;
   font-size: 3em;
   flex-grow: 1;
 }
