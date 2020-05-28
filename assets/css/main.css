@@ -160,12 +160,24 @@ main {
   width: 100%;
   height: auto;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
 }
 
 .key-code {
   font-size: 16em;
+  align-self: center;
+
+}
+
+.key {
+  align-self: center;
+  border-radius: 5px;
+  border: 1px solid #444;
+  color: #444;
+  padding: 16px 16px 14px 16px;
+  line-height: 1;
+  display: none;
 }
 
 /* -------------------------------------------------------------------------
